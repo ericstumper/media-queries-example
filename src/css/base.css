@@ -11,7 +11,7 @@ main {
   max-width: 1440px;
 
   & div {
-    color: yellow;
+    color: red;
 
     @media (min-width: 768px) {
       color: var(--div-color);
